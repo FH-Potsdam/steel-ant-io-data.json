@@ -297,30 +297,29 @@
     }
   },
   {
-    "author": "YOUR NAME",
+    "author": "Lucas Vogel",
     "github": "vogelino",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
+    "url": "http://www.vogelino.com",
+    "contact":"contact@vogelino.com",
     "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
+      "molecular-networks-p5-algorithm",
+      "explore-with-iss-api",
+      "explore-with-iss",
+      "periodic-table-data-visualization"
     ],
     "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-1-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "Molecular networks: Uniques generated patterns",
+      "image": "documentation/images/cover.png",
+      "thumb": "documentation/images/cover-thumb.png",
+      "repo-url": "https://github.com/vogelino/molecular-networks-p5-algorithm",
+      "abstract": "The molecular networks algorithm is a javascript written algorithm that generates a unique molecular-like pattern using the library p5js."
     },
     "iss": {
-      "title": "YOUR TITLE FOR ISS",
+      "title": "Explore with the International Space Station",
       "image": "ldr.png",
       "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "repo-url": "https://github.com/vogelino/explore-with-iss",
+      "abstract": "The ISS travels fast around the globe, visiting numerous countries more often than you will never be able to. Follow the ISS and learn about the countries it flies over."
     }
   },
   {
