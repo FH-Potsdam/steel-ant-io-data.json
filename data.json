@@ -1,29 +1,26 @@
 [
   {
-    "author": "YOUR NAME",
+    "author": "Nikolas Ripka",
     "github": "nikoripka",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
+    "contact": "https://twitter.com/nikoripka",
     "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
+      "Einflusspunkt",
+      "ISS info",
+      "TRANSL8R"
     ],
     "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-1-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "Einflusspunkt",
+      "image": "einflusspunkt.png",
+      "thumb": "einflusspunkt-thumb.png",
+      "repo-url": "http://github.com/nikoripka/einflusspunkt",
+      "abstract": "Lines feel attracted to dots. From analogue to digital to print."
     },
     "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "ISS info",
+      "image": "iss-info.png",
+      "thumb": "iss-info-thumb.png",
+      "repo-url": "http://github.com/nikoripka/iss-info",
+      "abstract": "A simple infographic with some interesting facts about the International Space Station."
     }
   },
   {
