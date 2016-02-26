@@ -132,10 +132,10 @@
     }
   },
   {
-    "author": "YOUR NAME",
+    "author": "Paul Max Klinski",
     "github": "Logetcrea",
     "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
+    "contact": "klinskipaul@gmail.com",
     "repos": [
       "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
       "AND ANOTHER PROJECT 2",
@@ -144,14 +144,14 @@
       "AND MORE"
     ],
     "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-1-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "from-letter-to-picture",
+      "image": "letter.png",
+      "thumb": "letter-thumb.png",
+      "repo-url": "http://logetcrea.github.io/from-letter-to-picture/index.html",
+      "abstract": " This project is about the different layout types and possibilities of a letter. The three rectangles symbolize the areas of the date, green, addressee, blue, and the sender, violet. The startpositions of these rectangles depend on the probability for being there in normal kinds of letter layouts. The different movements symbolize the many different kinds of writing a letter."
     },
     "iss": {
-      "title": "YOUR TITLE FOR ISS",
+      "title": "research-matters",
       "image": "ldr.png",
       "thumb": "ldr-thumb.png",
       "repo-url": "http://github.com/user/repo",
