@@ -148,7 +148,7 @@
       "image": "letter.png",
       "thumb": "letter-thumb.png",
       "repo-url": "http://logetcrea.github.io/from-letter-to-picture/index.html",
-      "abstract": " This project is about the different layout types and possibilities of a letter. The three rectangles symbolize the areas of the date, green, addressee, blue, and the sender, violet. The startpositions of these rectangles depend on the probability for being there in normal kinds of letter layouts. The different movements symbolize the many different kinds of writing a letter."
+      "abstract": "In this project I am trying to translate the different layout types of letters to artificial coded pictures. I created this project in 2015 as part part of the course 'Steel Ant - Input/Output' at the University of Applied Science in Potsdam (Germany). We dealed with the topic generative design and became acquainted with P5.js supported by Fabian Morón Zirfas 'fabiantheblind' and also influenced by Mey Lean Kronemann."
     },
     "iss": {
       "title": "research-matters",
