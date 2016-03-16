@@ -274,21 +274,20 @@
     "repos": [
       "https://github.com/swjo/PenDots",
       "https://github.com/swjo/hisstory-",
-      "https://github.com/swjo/Laundry",
-      "AND MORE",
-      "AND MORE"
+      "https://github.com/swjo/Laundry"
+  
     ],
     "algorithm": {
       "title": "pendots",
       "image": "https://github.com/swjo/PenDots/raw/master/images/pen.png",
       "thumb": "https://github.com/swjo/PenDots/raw/master/images/pen-thumb.png",
       "repo-url": "https://github.com/swjo/PenDots",
-      "abstract": "Pen Dots Algorithm is created through a process based on several experiments executed by humans and transcripted in p5js project forming individual pens."
+      "abstract": "Pen Dots is an algorythm created through a process based on several experiments executed by humans and transcripted in p5js forming individual pens."
     },
     "iss": {
       "title": "hisstory",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
+      "image": "https://github.com/swjo/hisstory-/raw/master/images/astro.png",
+      "thumb": "https://github.com/swjo/hisstory-/raw/master/images/astro-thumb.png",
       "repo-url": "https://github.com/swjo/hisstory-",
       "abstract": "hISStory is the visualisation of the history of the International Space Station."
     }
