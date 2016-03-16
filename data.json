@@ -272,25 +272,25 @@
     "url": "http://jopicture.com",
     "contact": "j.swarzynska@gmx.de",
     "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
+      "https://github.com/swjo/PenDots",
+      "https://github.com/swjo/hisstory-",
+      "https://github.com/swjo/Laundry",
       "AND MORE",
       "AND MORE"
     ],
     "algorithm": {
       "title": "pendots",
-      "image": ".png",
-      "thumb": "ldr-1-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "image": "https://github.com/swjo/PenDots/raw/master/images/pen.png",
+      "thumb": "https://github.com/swjo/PenDots/raw/master/images/pen-thumb.png",
+      "repo-url": "https://github.com/swjo/PenDots",
+      "abstract": "Pen Dots Algorithm is created through a process based on several experiments executed by humans and transcripted in p5js project forming individual pens."
     },
     "iss": {
       "title": "hisstory",
       "image": "ldr.png",
       "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "repo-url": "https://github.com/swjo/hisstory-",
+      "abstract": "hISStory is the visualisation of the history of the International Space Station."
     }
   },
   {
