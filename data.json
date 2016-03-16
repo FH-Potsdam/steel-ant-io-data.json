@@ -213,30 +213,28 @@
     }
   },
   {
-    "author": "YOUR NAME",
-    "github": "Josuas",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
+    "author": "Joshua Pacheco",
+    "github": "josues",
+    "url": "https://incom.org/profil/7029",
+    "contact": "joshua.pacheco@fh-potsdam.de",
     "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
+      "Time Deconstruction",
+      "Relativity and the ISS",
+      "TRANSL8R",
     ],
     "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-1-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "Time Deconstruction",
+      "image": "time.png",
+      "thumb": "time-thumb.png",
+      "repo-url": "https://github.com/josues/time-deconstruction",
+      "abstract": "Exploration of a new way to display time"
     },
     "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "Relativity and the ISS",
+      "image": "relativity.png",
+      "thumb": "relativity-thumb.png",
+      "repo-url": "https://github.com/josues/relativity-and-iss",
+      "abstract": "Visualization of how the effects of the theory of relativity effects the crew members in the ISS"
     }
   },
   {
