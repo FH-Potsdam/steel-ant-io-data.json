@@ -165,7 +165,8 @@
   "contact":"bela.kurek@berlin.de",
   "repos": [
     "mitte-zur-mitte",
-    "iss-money"
+    "iss-money",
+    "TRANSL8R"
   ],
   "algorithm": {
     "title": "mitte-zur-mitte",
@@ -179,7 +180,7 @@
     "image": "issmoney-algorithm.png",
     "thumb": "issmoney-algorithmthumb.png",
     "repo-url": "https://github.com/Q-rec/ISS-money",
-    "abstract": "an data visualisation of the ISS expenses "  }
+    "abstract": "an data visualisation of the ISS expenses "  
 }
   },
   {
