@@ -1,0 +1,27 @@
+{
+  "author": "Wolfgang Albrecht",
+  "github": "wollemannone",
+  "url": "- ",
+  "contact":"wolfgang.albrecht@ok.de",
+  "repos": [
+    "https://github.com/wollemannone/veggieManiacc-",
+    "https://github.com/wollemannone/flashyQuadrangle",
+    "",
+    "AND MORE",
+    "AND MORE"
+  ],
+  "algorithm": {
+    "title": "flags-raising-from-zero",
+    "image": "Flag500x500.png",
+    "thumb": "Flag500x500thumb.png",
+    "repo-url": "https://github.com/wollemannone/flags-raising-from-zero",
+    "abstract": "generates flags by layering random quadrangles"
+  },
+  "iss": {
+    "title": "ISS as far away",
+    "image": "Dist_Home.png",
+    "thumb": "Dist_Homethumb.png",
+    "repo-url": "https://github.com/wollemannone/ISS-as-far-away",
+    "abstract": "visualisation of the individual home distances of each ISS traveller "
+  }
+}
