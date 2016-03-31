@@ -1,0 +1,27 @@
+{
+  "author": "Marta Carlesso",
+  "github": "martakarta",
+  "url": "- ",
+  "contact":"marta.carlesso@gmail.com",
+  "repos": [
+    "https://github.com/martakarta/LineLights",
+    "https://github.com/martakarta/LookUp",
+    "",
+    "AND MORE",
+    "AND MORE"
+  ],
+  "algorithm": {
+    "title": "LineLights",
+    "image": "Lines.png",
+    "thumb": "Lines-thumb.png",
+    "repo-url": "https://github.com/martakarta/LineLights",
+    "abstract": "generates gitter connecting neighbour points"
+  },
+  "iss": {
+    "title": "LookUp",
+    "image": "Look.png",
+    "thumb": "Lookthumb.png",
+    "repo-url": "https://github.com/martakarta/LookUp",
+    "abstract": "visualisation of the moments of visibility of the ISS from a particular city "
+  }
+}
