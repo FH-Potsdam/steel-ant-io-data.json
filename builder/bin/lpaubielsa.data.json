@@ -1,0 +1,32 @@
+{
+  "author": "LauraPauBielsa",
+  "github": "lpaubielsa",
+  "url": "https://github.com/lpaubielsa",
+  "contact":"pau.bielsa@gmail.com",
+  "repos": [
+    "https://github.com/lpaubielsa/FadeAway",
+    "https://github.com/lpaubielsa/HereComesTheSun",
+    "https://github.com/FH-Potsdam/connecting-bits",
+    
+  ],
+  "algorithm": {
+    "title": "FadeAway",
+    "image": "beautyShotFadeAway.png",
+    "thumb": "thumbnailFadeAway.png",
+    "repo-url": "https://github.com/lpaubielsa/FadeAway",
+    "abstract": "An analog algorithm converted digital realized with P5js"
+  },
+  "iss": {
+    "title": "HereComesTheSun",
+    "image": "beautyshotISS.png",
+    "thumb": "thumbnailISS.png",
+    "repo-url": "https://github.com/lpaubielsa/HereComesTheSun",
+    "abstract": "A data visualization that compares the hours of sun and Lux-values between the Earth and the ISS."
+  }
+  "TRANSL8R": {
+    "title": "TRANSL8R",
+    "image": "hardware-.4.jpg",
+    "repo-url": "https://github.com/FH-Potsdam/connecting-bits",
+    "abstract": "Machines playing the Chinese whispers game in four different languages "
+  }
+}
