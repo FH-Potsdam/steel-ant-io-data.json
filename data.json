@@ -173,14 +173,13 @@
     "image": "mittealgorithm500.png",
     "thumb": "mitteresultalgorithmtumb64.png",
     "repo-url": "https://github.com/Q-rec/Mitte-zur-Mitte",
-    "abstract": "a line goes from one side to another, and chose a different part every time"  }
-}
+    "abstract": "a line goes from one side to another, and chose a different part every time"  },
   "iss": {
     "title": "iss-money",
     "image": "issmoney-algorithm.png",
     "thumb": "issmoney-algorithmthumb.png",
     "repo-url": "https://github.com/Q-rec/ISS-money",
-    "abstract": "an data visualisation of the ISS expenses "  
+    "abstract": "an data visualisation of the ISS expenses "
 }
   },
   {
@@ -216,7 +215,7 @@
     "repos": [
       "Time Deconstruction",
       "Relativity and the ISS",
-      "TRANSL8R",
+      "TRANSL8R"
     ],
     "algorithm": {
       "title": "Time Deconstruction",
@@ -269,7 +268,7 @@
       "https://github.com/swjo/PenDots",
       "https://github.com/swjo/hisstory-",
       "https://github.com/swjo/Laundry"
-  
+
     ],
     "algorithm": {
       "title": "pendots",
@@ -353,7 +352,7 @@
     "repos": [
       "Bounce Algorithm",
       "I See Streams",
-      "TRANSL8R",
+      "TRANSL8R"
     ],
     "algorithm": {
       "title": "Bounce Algorithm",
