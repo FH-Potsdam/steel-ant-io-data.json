@@ -24,30 +24,28 @@
     }
   },
   {
-    "author": "YOUR NAME",
+    "author": "Marta Carlesso",
     "github": "martakarta",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
+    "url": "https://www.facebook.com/marta.k.carlesso",
+    "contact": "marta.carlesso@gmail.com",
     "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
+      "LineLights",
+      "LookUp",
+      "TRANSL8TR",
     ],
     "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "LineLights",
+      "image": "Lines.png",
+      "thumb": "Lines-thumb.png",
+      "repo-url": "https://github.com/martakarta/LineLights",
+    "abstract": " One line, unlimited ways to connect neighbour points and create a pattern."
     },
     "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "LookUp",
+      "image": "Look.png",
+      "thumb": "Lookthumb.png",
+      "repo-url": "https://github.com/martakarta/LookUp",
+      "abstract": " The ISS is actually visible with naked eyes from the earth. But do we know when and where is the right spot of sighting."
     }
   },
   {
