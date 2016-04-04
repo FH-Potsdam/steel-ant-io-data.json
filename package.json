@@ -1,0 +1,20 @@
+{
+  "name": "steel-ant-io-data.json",
+  "version": "1.0.0",
+  "description": "A combined repo for the steel ants to add there data into. The result will be used to build the site under [interface.fh-potsdam.de/eingabe-ausgabe/2015-2016](https://interface.fh-potsdam.de/eingabe-ausgabe/2015-2016/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FH-Potsdam/steel-ant-io-data.json.git"
+  },
+  "keywords": [],
+  "author": "Fabian 'fabiantheblind' Morón Zirfas <fabian.moron.zirfas@gmail.com> (http://fabianmoronzirfas.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FH-Potsdam/steel-ant-io-data.json/issues"
+  },
+  "homepage": "https://github.com/FH-Potsdam/steel-ant-io-data.json#readme"
+}
