@@ -350,9 +350,8 @@
     "url": "http://dustinkummer.com",
     "contact": "miduku11@gmail.com",
     "repos": [
-      "Bounce Algorithm",
-      "I See Streams",
-      "TRANSL8R"
+      "bounce-algorithm",
+      "i-see-streams"
     ],
     "algorithm": {
       "title": "Bounce Algorithm",
