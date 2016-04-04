@@ -233,30 +233,28 @@
     }
   },
   {
-    "author": "YOUR NAME",
+    "author": "Nina Komarova-Zelinskaya",
     "github": "Ninotschka",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
+    "url": "https://fhp.incom.org/profil/7163",
+    "contact": "ninotschka@bk.ru",
     "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
+      "outlines",
+      "numbered parts",
+      
     ],
     "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "outlines",
+      "image": "outlines.png",
+      "thumb": "outlines-tumb.png",
+      "repo-url": "https://github.com/Ninotschka/outlines",
+      "abstract": " My goal was to create repetitive patterns,I liked that the patterns could tell something about a person by showing me some part of the world they are surrounded by, as if seen in a distorted mirror."
     },
     "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "ISS:numbered parts",
+      "image": "Beautyshot-numbered-parts.png",
+      "thumb": "Beautyshot-numbered-part-thumb.png",
+      "repo-url": "https://github.com/Ninotschka/ISS-numbered-parts",
+      "abstract": " A poster where you can learn about the current parts of the ISS ad about their history, with the visual inspirations of retro-futurism, as in 2001: A Space Odyssey and Barbarella."
     }
   },
   {
