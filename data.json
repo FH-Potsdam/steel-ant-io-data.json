@@ -227,14 +227,14 @@
       "image": "time.png",
       "thumb": "time-thumb.png",
       "repo-url": "https://github.com/josues/time-deconstruction",
-      "abstract": "Exploration of a new way to display time"
+      "abstract": "Exploration of a new way to display time."
     },
     "iss": {
       "title": "Relativity and the ISS",
       "image": "relativity.png",
       "thumb": "relativity-thumb.png",
       "repo-url": "https://github.com/josues/relativity-and-iss",
-      "abstract": "Visualization of how the effects of relativity affect the crew members in the ISS"
+      "abstract": "Visualization of how the effects of relativity affect the crew members in the ISS."
     }
   },
   {
