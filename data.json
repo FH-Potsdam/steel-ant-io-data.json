@@ -49,33 +49,39 @@
       "abstract": " The ISS is actually visible with naked eyes from the earth. But do we know when and where is the right spot of sighting."
     }
   },
-  {
-    "author": "YOUR NAME",
-    "github": "lpaubielsa",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
-    "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
-      "AND MORE"
-    ],
-    "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    },
-    "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
-    }
+{
+  "author": "LauraPauBielsa",
+  "github": "lpaubielsa",
+  "url": "https://github.com/lpaubielsa",
+  "contact":"pau.bielsa@gmail.com",
+  "repos": [
+    "FadeAway",
+    "HereComesTheSun",
+    "connecting-bits",
+    
+  ],
+  "algorithm": {
+    "title": "FadeAway",
+    "image": "beautyShotFadeAway.png",
+    "thumb": "thumbnailFadeAway.png",
+    "repo-url": "https://github.com/lpaubielsa/FadeAway",
+    "abstract": "An analog algorithm converted digital realized with P5js"
   },
+  "iss": {
+    "title": "HereComesTheSun",
+    "image": "beautyshotISS.png",
+    "thumb": "thumbnailISS.png",
+    "repo-url": "https://github.com/lpaubielsa/HereComesTheSun",
+    "abstract": "A data visualization that compares the hours of sun and Lux-values between the Earth and the ISS."
+  }
+  "TRANSL8R": {
+    "title": "TRANSL8R",
+    "image": "hardware-.4.jpg",
+    "repo-url": "https://github.com/FH-Potsdam/connecting-bits",
+    "abstract": "Machines playing the Chinese whispers game in four different languages "
+  }
+}
+,
   {
     "author": "YOUR NAME",
     "github": "dariaDunkelbier",
