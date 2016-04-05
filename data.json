@@ -3,6 +3,7 @@
     "author": "Nikolas Ripka",
     "github": "nikoripka",
     "contact": "https://twitter.com/nikoripka",
+    "url":"http://SOMETHING.COM",
     "repos": [
       "Einflusspunkt",
       "ISS info",
@@ -31,7 +32,7 @@
     "repos": [
       "LineLights",
       "LookUp",
-      "TRANSL8TR",
+      "TRANSL8TR"
     ],
     "algorithm": {
       "title": "LineLights",
@@ -237,7 +238,7 @@
     "contact": "ninotschka@bk.ru",
     "repos": [
       "outlines",
-      "numbered parts",
+      "numbered parts"
       
     ],
     "algorithm": {
@@ -261,9 +262,9 @@
     "url": "http://jopicture.com",
     "contact": "j.swarzynska@gmx.de",
     "repos": [
-      "https://github.com/swjo/PenDots",
-      "https://github.com/swjo/hisstory-",
-      "https://github.com/swjo/Laundry"
+      "PenDots",
+      "hisstory-",
+      "Laundry"
 
     ],
     "algorithm": {
