@@ -318,30 +318,27 @@
     }
   },
   {
-    "author": "YOUR NAME",
+    "author": "Wolfgang Albrecht",
     "github": "wollemannone",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
-    "contact": "e-mail oder social network",
+    "url": "",
+    "contact": "wolfgang.albrecht@ok.de",
     "repos": [
-      "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
-      "AND ANOTHER PROJECT 2",
-      "AND ANOTHER PROJECT 3",
-      "AND MORE",
+      "veggieManiacc-",
       "AND MORE"
     ],
     "algorithm": {
-      "title": "YOUR TITLE FOR THE ALGORITHM",
-      "image": ".png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "flags-raising-from-zero",
+      "image": "images/Flag500x500.png",
+      "thumb": "images/Flag500x500thumb.png",
+      "repo-url": "https://github.com/wollemannone/flags-raising-from-zero",
+      "abstract": "Diffrent flags can have the same visual language. With this little program you can create flags having a unique style."
     },
     "iss": {
-      "title": "YOUR TITLE FOR ISS",
-      "image": "ldr.png",
-      "thumb": "ldr-thumb.png",
-      "repo-url": "http://github.com/user/repo",
-      "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+      "title": "ISS-as-far-away",
+      "image": "images/Dist_Home.png",
+      "thumb": "images/Dist_Homethumb.png",
+      "repo-url": "https://github.com/wollemannone/ISS-as-far-away",
+      "abstract": "A visual interpretation of the individual distance between each ISS crew member and the belonging place of home"
     }
   },
   {
