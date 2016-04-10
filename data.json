@@ -139,7 +139,7 @@
   {
     "author": "Paul Max Klinski",
     "github": "Logetcrea",
-    "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
+    "url": "http://github.com/Logetcrea",
     "contact": "klinskipaul@gmail.com",
     "repos": [
       "from-letter-to-picture",
@@ -149,15 +149,15 @@
       "title": "from-letter-to-picture",
       "image": "letter.png",
       "thumb": "letter-thumb.png",
-      "repo-url": "https://github.com/Logetcrea/from-letter-to-picture",
+      "repo-url": "http://github.com/Logetcrea/from-letter-to-picture",
       "abstract": "In this project I am trying to translate the different layout types of letters to artificial coded pictures. I created this project in 2015 as part part of the course 'Steel Ant - Input/Output' at the University of Applied Science in Potsdam (Germany). We dealed with the topic generative design and became acquainted with P5.js supported by Fabian Morón Zirfas 'fabiantheblind' and also influenced by Mey Lean Kronemann."
     },
     "iss": {
       "title": "research-matters",
       "image": "ldr.png",
       "thumb": "ldr-thumb.png",
-      "repo-url": "https://github.com/Logetcrea/research-matters",
-      "abstract": "In this I am showing how many different research projects have been executed on the ISS."
+      "repo-url": "http://github.com/Logetcrea/research-matters",
+      "abstract": "In this project I am showing how many different research projects have been executed on the ISS and which countries are involved."
     }
   },
   {
