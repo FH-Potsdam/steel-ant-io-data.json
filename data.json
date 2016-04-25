@@ -295,22 +295,22 @@
       ],
       "algorithm": {
         "title": "Molecular networks: Uniques generated patterns",
-        "image": "images/vogelino-algorithm-cover.png",
-        "thumb": "images/vogelino-algorithm-cover-thumb.png",
+        "image": "vogelino-algorithm-cover.png",
+        "thumb": "vogelino-algorithm-cover-thumb.png",
         "repo-url": "https://github.com/vogelino/molecular-networks-p5-algorithm",
         "abstract": "The molecular networks algorithm is a javascript written algorithm that generates a unique molecular-like pattern using the library p5js."
       },
       "iss": {
         "title": "Explore with the International Space Station",
-        "image": "images/vogelino-iss-cover.png",
-        "thumb": "images/vogelino-iss-cover-thumb.png",
+        "image": "vogelino-iss-cover.png",
+        "thumb": "vogelino-iss-cover-thumb.png",
         "repo-url": "https://github.com/vogelino/explore-with-iss",
         "abstract": "The ISS travels fast around the globe, visiting numerous countries more often than you will never be able to. Follow the ISS and learn about the countries it flies over."
       },
       "exercise": {
         "title": "A visual representation (data visualization) of the chimical elements periodic table",
-        "image": "images/vogelino-tableOfElements-cover.png",
-        "thumb": "images/vogelino-tableOfElements-cover-thumb.png",
+        "image": "vogelino-tableOfElements-cover.png",
+        "thumb": "vogelino-tableOfElements-cover-thumb.png",
         "repo-url": "https://github.com/vogelino/periodic-table-data-visualization",
         "abstract": "How to represent something that has been represented a thousend times already? This periodic table of the chemical element is the result of an exercise intended to introduce students to the field of data visualization. I recieved a list of all chemical elements as a json dataset and the visualization is what I've done with it."
       }
