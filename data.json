@@ -247,8 +247,8 @@
       },
       "iss": {
         "title": "hisstory",
-        "image": "https://farm8.staticflickr.com/7028/26206361293_97cb5ab099_t.jpg",
-        "thumb": "https://farm8.staticflickr.com/7708/26538169740_fe7d68bfee_t.jpg",
+        "image": "astro.png",
+        "thumb": "astro-thumb.png",
         "repo-url": "https://github.com/swjo/hisstory-",
         "abstract": "hISStory is the visualisation of the history of the International Space Station."
       }
