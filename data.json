@@ -123,8 +123,8 @@
       },
       "iss": {
         "title": "research-matters",
-        "image": "ldr.png",
-        "thumb": "ldr-thumb.png",
+        "image": "researchMatters.png",
+        "thumb": "researchMatters-thumb.png",
         "repo-url": "http://github.com/Logetcrea/research-matters",
         "abstract": "In this project I am showing how many different research projects have been executed on the ISS and which countries are involved."
       }
